@@ -1,6 +1,6 @@
-# Custom React Project by Shrikrushna
+# Create React App
 
-This is a custom React project created by Shrikrushna.
+CLI tool for creating react project with single command
 
 ## Project Structure
 
